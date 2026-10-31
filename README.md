@@ -10,14 +10,20 @@ Fora do trabalho, desenvolvo projetos independentes, estudo assuntos que me inte
 
 As vezes também desenho. Nem tudo precisa virar código.
 
+---
+
 ### Stack
 
 ```text
 Mobile    Swift · UIKit · SwiftUI
 Backend   Java · Spring Boot · SQL
-Data      Redis · Elasticsearch
+Data      SwiftData · Core Data · Redis · Elasticsearch
+Services  Firebase
+Security  Keychain
 Web       TypeScript · React
 ```
+
+---
 
 ### Projetos
 
@@ -33,11 +39,15 @@ Gerenciador de tarefas para iOS, offline-first, com foco em simplicidade e exper
 
 Jogo 2D independente sobre programação, sobrevivência e as pequenas tragédias da vida de um desenvolvedor.
 
+---
+
 ### Blog
 
 **[luanrodrigues.xyz](https://luanrodrigues.xyz)**
 
 Escrevo sobre desenvolvimento iOS, Swift, arquitetura, concorrência, testes e algumas coisas que resolvo estudar por curiosidade.
+
+---
 
 ### Sobre o LinkedIn
 
