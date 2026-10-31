@@ -1,7 +1,5 @@
 # Luan Rodrigues
 
-<sub>Perfil criado em 23 de outubro de 2026</sub>
-
 **Software Developer · iOS / Backend**
 
 Desenvolvedor de software com experiência em aplicações iOS nativas e sistemas backend com Java e Spring Boot.
@@ -10,7 +8,7 @@ Já trabalhei com aplicações corporativas, APIs, integrações e sistemas que 
 
 Fora do trabalho, desenvolvo projetos independentes, estudo assuntos que me interessam e escrevo sobre algumas coisas que aprendo pelo caminho.
 
-Às vezes também desenho. Nem tudo precisa virar código.
+As vezes também desenho. Nem tudo precisa virar código.
 
 ### Stack
 
@@ -47,6 +45,8 @@ Minha conta no LinkedIn foi restringida depois que abreviei meu nome e troquei a
 
 Não tenho interesse em perder tempo tentando recuperar a conta. Se o LinkedIn for um requisito obrigatório para algum processo seletivo, prefiro deixar a oportunidade passar.
 
-Meu histórico profissional, meus projetos e parte do que estudo estão disponíveis aqui e no meu [blog](https://luanrodrigues.xyz).
+Minha experiência profissional pode ser comprovada pelos registros na carteira de trabalho, no caso dos vínculos CLT, e pelos contratos de prestação de serviços que ainda tenho guardados, no caso das experiências PJ.
+
+Meu histórico, meus projetos e parte do que estudo também estão disponíveis aqui e no meu [blog](https://luanrodrigues.xyz).
 
 Continuo aberto a oportunidades e conversas sobre tecnologia. Só não pretendo depender de uma rede social específica para isso.
