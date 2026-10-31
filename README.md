@@ -1,61 +1,52 @@
-# Hey, I'm Luan.
+# Luan Rodrigues
 
-**Backend Developer · iOS Developer**
+<sub>Perfil criado em 23 de outubro de 2026</sub>
 
-I'm a software developer from Brazil. I've worked with backend, web, and iOS development over the years.
+**Software Developer · iOS / Backend**
 
-I mostly work with Java, Spring Boot, and Swift. I also have experience with React, TypeScript, UIKit, and SwiftUI. Right now, I'm learning more about C# and .NET.
+Desenvolvedor de software com experiência em aplicações iOS nativas e sistemas backend com Java e Spring Boot.
 
-I like building things, understanding how they work, and sometimes making my life harder by trying to build everything from scratch.
+Já trabalhei com aplicações corporativas, APIs, integrações e sistemas que precisam continuar funcionando depois que o deploy termina.
 
-### Where I've Worked
+Fora do trabalho, desenvolvo projetos independentes, estudo assuntos que me interessam e escrevo sobre algumas coisas que aprendo pelo caminho.
 
-I've had the chance to work with different companies and projects, including:
+Às vezes também desenho. Nem tudo precisa virar código.
 
-- **CI&T** — working on a project for Porto Seguro
-- **Sigma S/A** — working on a project for Eletrobras/Furnas
-- **Tribunal de Contas do Estado de São Paulo (TCE-SP)**
-- **Grupo Taking** — software consulting
-- **Grupo IOB**
+### Stack
 
-Most of my work has been around backend services, web applications, and mobile apps.
+```text
+Mobile    Swift · UIKit · SwiftUI
+Backend   Java · Spring Boot · SQL
+Data      Redis · Elasticsearch
+Web       TypeScript · React
+```
 
-### Backend Development
+### Projetos
 
-I enjoy working with APIs, databases, integrations, and figuring out how things work behind the scenes.
+**[GitHubUsers](https://github.com/luanrodrigues-xyz/GitHubUsers)**
 
-- Java & Spring Boot
-- REST APIs
-- SQL, Redis & Elasticsearch
-- Authentication and security
-- Unit and integration tests
-- C# & .NET (currently learning)
+Aplicativo iOS desenvolvido com SwiftUI, MVVM, Swift Concurrency, paginação, cache de imagens e testes automatizados.
 
-### iOS Mobile Development
+**[Tilo](https://github.com/luanrodrigues-xyz/tilo)**
 
-I've worked on iOS apps, mostly in banking and financial projects. My work included building new features, connecting apps to APIs, fixing bugs, and working with existing code.
+Gerenciador de tarefas para iOS, offline-first, com foco em simplicidade e experiência nativa.
 
-- Swift & Objective-C
-- UIKit & SwiftUI
-- MVVM & Coordinator Pattern
-- Swift Concurrency & Combine
-- Core Data
-- XCTest & XCUITest
-- Swift Package Manager
-- Fastlane & TestFlight
+**[Deploy ou Ruína](https://github.com/luanrodrigues-xyz/deploy-ou-ruina)**
 
-### Indie Game Development (Hobby)
+Jogo 2D independente sobre programação, sobrevivência e as pequenas tragédias da vida de um desenvolvedor.
 
-In my free time, I like making indie games. I'm still learning about game design, animation, and all the other things that come with making a game.
+### Blog
 
-**The Iron Bell**  
-A western mystery game set in an alternative 1893, with exploration, action, machines, and a bit of mystery.
+**[luanrodrigues.xyz](https://luanrodrigues.xyz)**
 
-**Deploy ou Ruína**  
-A game about an unemployed developer trying to survive job interviews, recruiters who never reply, and all the weird stuff in the tech industry.
+Escrevo sobre desenvolvimento iOS, Swift, arquitetura, concorrência, testes e algumas coisas que resolvo estudar por curiosidade.
 
-Making games is something I really enjoy, even when I spend hours trying to fix a character that doesn't know how to walk properly.
+### Sobre o LinkedIn
 
-### Elsewhere
+Minha conta no LinkedIn foi restringida depois que abreviei meu nome e troquei a foto de perfil por um avatar. Inclusive, o mesmo que uso aqui no GitHub, que, particularmente, acho bonitão.
 
-**Website & Blog:** [luanrodrigues.xyz](https://luanrodrigues.xyz)
+Não tenho interesse em perder tempo tentando recuperar a conta. Se o LinkedIn for um requisito obrigatório para algum processo seletivo, prefiro deixar a oportunidade passar.
+
+Meu histórico profissional, meus projetos e parte do que estudo estão disponíveis aqui e no meu [blog](https://luanrodrigues.xyz).
+
+Continuo aberto a oportunidades e conversas sobre tecnologia. Só não pretendo depender de uma rede social específica para isso.
