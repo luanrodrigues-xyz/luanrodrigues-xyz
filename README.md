@@ -34,7 +34,7 @@ Jogo 2D de plataforma e precisão, com física, colisões, armadilhas e uma mec�
 
 Jogo 2D de exploração e puzzles, com humor e sátira sobre o cotidiano, o trabalho e a tecnologia.
 
-### [Ghostlive](https://github.com/luanrodrigues-xyz/ghostlike)
+### Ghostlive
 **C++20 · SDL3**
 
 Jogo 2D de investigação, infiltração e puzzles sistêmicos, sem combate. A proposta combina exploração não linear, stealth e hacking baseado em reconhecimento, análise de evidências e manipulação de sistemas. As decisões digitais podem alterar fisicamente o cenário e abrir novos caminhos.
