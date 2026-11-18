@@ -1,53 +1,53 @@
 # Luan Rodrigues
 
-**Software Developer · Java · React · TypeScript · C++ / SDL3**
+**Desenvolvedor Backend Java | Spring Boot · APIs REST · Integrações**
 
-Sou desenvolvedor de software e trabalho com aplicações web, sistemas backend, APIs e integrações.
+Sou desenvolvedor de software com mais de cinco anos de experiência em aplicações corporativas. Trabalhei com Java e Spring Boot em APIs REST, regras de negócio, integrações entre sistemas, persistência de dados e testes automatizados.
 
-Tenho experiência com Java e Spring Boot em projetos corporativos. Também desenvolvo com React e TypeScript e, fora do trabalho, venho dedicando boa parte do meu tempo à criação de jogos 2D com C++ e SDL3.
-
-Gosto de entender como as coisas funcionam por baixo, especialmente quando envolvem arquitetura, matemática, computação gráfica e ferramentas construídas do zero.
-
-Às vezes também desenho. Nem tudo precisa virar código.
-
-## Tecnologias
-
-- **Backend:** Java, Spring Boot, APIs REST, SQL, Redis e Elasticsearch.
-- **Frontend:** React, TypeScript e desenvolvimento de interfaces web.
-- **Jogos e computação gráfica:** C++20, SDL3, PixiJS e CMake.
-- **No dia a dia:** Git, Docker, testes automatizados, arquitetura de software e integração de sistemas.
-
-## Projetos
-
-### Tessora
-**TypeScript · React · PixiJS**
-
-Jogo de puzzles geométricos em que é possível cortar, mover e girar peças para reconstruir figuras. O motor de geometria valida diferentes soluções, sem depender de uma única montagem predefinida.
-
-### Ruptura
-**C++20 · SDL3**
-
-Jogo 2D de plataforma e precisão, com física, colisões, armadilhas e uma mecânica de impulso que também faz parte dos desafios.
-
-### Deploy ou Ruína
-**C++20 · SDL3**
-
-Jogo 2D de exploração e puzzles, com humor e sátira sobre o cotidiano, o trabalho e a tecnologia.
+Tenho experiência com manutenção e evolução de sistemas existentes, investigação de falhas e ferramentas de CI/CD.
 
 ## Experiência profissional
 
-- **Taking** — desenvolvimento de software.
-- **Sigma S/A** — atuação em projetos para a **Eletrobras/Furnas** e o **Tribunal de Contas do Estado de São Paulo (TCESP)**.
-- **CI&T** — atuação em projeto para a **Porto**.
+### CI&T — Desenvolvedor Java
+**Ago 2024 – Ago 2026 · Cliente: Porto Seguro**
 
-## Escrevo também
+Desenvolvimento e manutenção de serviços backend com Java e Spring Boot, integrações entre sistemas, Spring Data JPA, Hibernate e testes com JUnit e Mockito. Atuação com Docker, Kubernetes, SonarQube, Jenkins e Azure Pipelines.
 
-**[luanrodrigues.xyz](https://luanrodrigues.xyz)**
+### TAKING — Desenvolvedor Java e Angular
+**Fev 2022 – Ago 2024**
 
-Estou atualizando meu blog, onde escrevo sobre código, decisões de implementação, estudos e o desenvolvimento dos meus jogos.
+Desenvolvimento e evolução de aplicações com Java e Spring Boot, APIs REST e regras de negócio. Experiência também com integrações entre backend e interfaces Angular/TypeScript.
+
+### Sigma S/A — Desenvolvedor Java e Angular
+**Out 2022 – Out 2023 · Clientes: Eletrobras/Furnas e TCESP**
+
+Desenvolvimento de APIs REST e funcionalidades corporativas com Java e Spring Boot. Construção de ferramentas administrativas com Angular e TypeScript e melhorias de acessibilidade seguindo WCAG.
+
+### 10envolve Design e Comunicação — Desenvolvedor Web Java
+**2020 – Dez 2021**
+
+Desenvolvimento e manutenção de aplicações web com Java e JSF, formulários, regras de negócio e integração entre interfaces e backend.
+
+## Tecnologias
+
+- **Backend:** Java 11, 17 e 21, Spring Boot, Spring Data JPA, Hibernate, APIs REST, JSF
+- **Dados:** SQL Server, Redis, Elasticsearch
+- **Testes e qualidade:** JUnit, Mockito, SonarQube
+- **Infraestrutura e CI/CD:** Docker, Kubernetes, Jenkins, Azure Pipelines, Azure DevOps, Git
+- **Frontend:** Angular, TypeScript, JavaScript
+
+## Código e contribuições
+
+Contribuo com o projeto open source [Énóis](https://github.com/Rede-ENois), que utiliza Java e Spring Boot no backend. Tenho interesse especial por correção de problemas, integrações, testes e manutenção de sistemas.
+
+Fora do trabalho corporativo, também desenvolvo jogos e ferramentas com **C++20 e SDL3**. É onde estudo simulação, geometria e renderização.
+
+## Formação
+
+**Análise e Desenvolvimento de Sistemas** — UNIESP Centro Universitário (2024)
 
 ## Contato
 
-Gosto de conversar sobre desenvolvimento de software, backend, frontend, C++ e criação de jogos.
-
-Você pode acompanhar meus projetos aqui no GitHub ou visitar meu [blog](https://luanrodrigues.xyz).
+- **E-mail:** luansantos.dev@gmail.com
+- **Blog:** [luanrodrigues.xyz](https://luanrodrigues.xyz)
+- **Localização:** Paraíba, Brasil
